@@ -1,7 +1,7 @@
 ![Dashboard Over View](https://github.com/waleed-analyst/Maven-Toys-Sales-Dashboard/blob/main/Dashboard%20Over%20View.png)
 
 
-# Maven Toys Sales Dashboard
+# Toys Sales Dashboard
 
 This repository contains the Power BI dashboard created for Maven Toys, a fictitious chain of toy stores in Mexico. The dashboard provides comprehensive insights into sales, inventory, and store performance, aiding stakeholders in making informed decisions for business expansion.
 
